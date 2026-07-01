@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0116/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮宗必讀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1197.xml
+    old_id: X62n1197
+hash: sha256:3a283f56b840906181ca1ae5c91b0766eba3cca293e2c35e4c5a103f2b507c9f

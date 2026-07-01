@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR6p0116/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0116/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮宗必讀
+  identifiers:
+    krp: KR6p0116
+    cbeta: X62n1197
+    cbeta_old_id: X62n1197
+    authorityid: CA0002056
+    json_key: X1197
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1197.xml
+    old_id: X62n1197
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0116_000-X.yaml, hash: 'sha256:3a283f56b840906181ca1ae5c91b0766eba3cca293e2c35e4c5a103f2b507c9f'}
+  - {seq: 1, filename: KR6p0116_001-X.yaml, hash: 'sha256:1a637231d3b3afe03341093bca0b3ce655914b912e5f9f3080c793570d4ae5b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0116_000-X.markers.yaml, hash: 'sha256:1f92047d6eb683f73467289340b6dedba8eb53092d8b1717e69c22726946e7c6'}
+  - {seq: 1, role: markers, filename: assets/KR6p0116_001-X.markers.yaml, hash: 'sha256:421265a4fa1ec807ab047c65476f2a8f8b476fc8a02ad84a342b1312dd9b4e33'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 42944
+  label: 蓮宗必讀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 蓮宗必讀總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-2
+    span:
+    - body
+    - 962
+    - 962
+  label: 蓮宗必讀總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-3
+    span:
+    - body
+    - 1140
+    - 1140
+  label: 阿彌陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-4
+    span:
+    - body
+    - 3107
+    - 3107
+  label: 無量壽經(四十八願)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-5
+    span:
+    - body
+    - 5175
+    - 5175
+  label: 觀無量壽佛經(九品觀章)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-6
+    span:
+    - body
+    - 7532
+    - 7532
+  label: 五王八苦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-7
+    span:
+    - body
+    - 9490
+    - 9490
+  label: 往生淨土決疑行願二門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-8
+    span:
+    - body
+    - 13619
+    - 13619
+  label: 淨土十疑論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-9
+    span:
+    - body
+    - 18363
+    - 18363
+  label: 善導和尚專修法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-10
+    span:
+    - body
+    - 19195
+    - 19195
+  label: 法照大師感見文殊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-11
+    span:
+    - body
+    - 19519
+    - 19519
+  label: 慧日法師感見觀音
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-12
+    span:
+    - body
+    - 19724
+    - 19724
+  label: 飛錫法師高聲念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-13
+    span:
+    - body
+    - 20201
+    - 20201
+  label: 永明壽禪師誡勿輕淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-14
+    span:
+    - body
+    - 20594
+    - 20594
+  label: 四明尊者勸念佛疏文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-15
+    span:
+    - body
+    - 20876
+    - 20876
+  label: 慈照宗主勸人發願偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-16
+    span:
+    - body
+    - 21420
+    - 21420
+  label: 優曇和尚蓮宗寶鑑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-17
+    span:
+    - body
+    - 21933
+    - 21933
+  label: 天如禪師淨土或問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-18
+    span:
+    - body
+    - 23275
+    - 23275
+  label: 寶王三昧念佛直指
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-19
+    span:
+    - body
+    - 26384
+    - 26384
+  label: 西齋淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-20
+    span:
+    - body
+    - 28403
+    - 28403
+  label: 幽溪法師淨土法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-21
+    span:
+    - body
+    - 30902
+    - 30902
+  label: 信願持名歷九品四土說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-22
+    span:
+    - body
+    - 33447
+    - 33447
+  label: 淨土十要總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-23
+    span:
+    - body
+    - 35596
+    - 35596
+  label: 省庵法師勸發菩提心文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-24
+    span:
+    - body
+    - 39666
+    - 39666
+  label: 徹悟禪師念佛法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0116_X_001-mulu-25
+    span:
+    - body
+    - 42558
+    - 42558
+  label: No. 1197-A 蓮宗必讀後跋
+  type: mulu
+  level: 1
+hash: sha256:4f0f3765d8102589ba846eca36fca570ef32025953ac17993c9c9fc541101d43
