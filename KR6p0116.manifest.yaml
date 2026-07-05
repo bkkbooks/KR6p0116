@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0116_000.yaml, hash: 'sha256:3a283f56b840906181ca1ae5c91b0766eba3cca293e2c35e4c5a103f2b507c9f'}
-  - {seq: 1, filename: KR6p0116_001.yaml, hash: 'sha256:9d45ef579b55c7fbf410010725903f6779dc811c7388b04041be239c4de026a0'}
+  - {seq: 1, filename: KR6p0116_001.yaml, hash: 'sha256:1a637231d3b3afe03341093bca0b3ce655914b912e5f9f3080c793570d4ae5b4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6p0116_001.markers.yaml, hash: 'sha256:d60a9f6c70263f4015e28f3be8eab8709631ab288cb8b7e85db4aade8ad7ac3c'}
+  - {seq: 0, role: markers, filename: assets/KR6p0116_000.markers.yaml, hash: 'sha256:34ae70f06b547c0cedd95e1f7e643cfdb5f638365ff05bf5a022971c06cc6ae3'}
+  - {seq: 1, role: markers, filename: assets/KR6p0116_001.markers.yaml, hash: 'sha256:3d3f89a12aa536e5e6392f06c427ede471e997e083b80b5d594e42cf09c5928e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -286,7 +287,4 @@ table_of_contents:
   label: No. 1197-A 蓮宗必讀後跋
   type: mulu
   level: 1
-hash: sha256:2fe57bde642651dadfc672e9d9fa9ef8637bd71451b468bdef5808222ab352c2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:62972226db2fc1a223ac7f65caa10551b0618b1b58300b81a0ce3b8d245d3590
