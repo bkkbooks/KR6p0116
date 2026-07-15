@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0116/v1
 canonical_location: https://kanripo.org/bkk/KR6p0116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蓮宗必讀
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0116_000.yaml, hash: 'sha256:3a283f56b840906181ca1ae5c91b0766eba3cca293e2c35e4c5a103f2b507c9f'}
-  - {seq: 1, filename: KR6p0116_001.yaml, hash: 'sha256:1a637231d3b3afe03341093bca0b3ce655914b912e5f9f3080c793570d4ae5b4'}
+  - {seq: 1, filename: KR6p0116_001.yaml, hash: 'sha256:a677ca5492d9eaed7f1f3994742805a425abecd2203b3182c1078558f662907b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0116_000.markers.yaml, hash: 'sha256:34ae70f06b547c0cedd95e1f7e643cfdb5f638365ff05bf5a022971c06cc6ae3'}
-  - {seq: 1, role: markers, filename: assets/KR6p0116_001.markers.yaml, hash: 'sha256:3d3f89a12aa536e5e6392f06c427ede471e997e083b80b5d594e42cf09c5928e'}
+  - {seq: 1, role: markers, filename: assets/KR6p0116_001.markers.yaml, hash: 'sha256:02bf9a545704fa4908537f5947b0a01378ac2347c1bba16b7fa867b329d08074'}
 table_of_contents:
 - ref:
     seq: 1
@@ -287,4 +287,7 @@ table_of_contents:
   label: No. 1197-A 蓮宗必讀後跋
   type: mulu
   level: 1
-hash: sha256:62972226db2fc1a223ac7f65caa10551b0618b1b58300b81a0ce3b8d245d3590
+hash: sha256:c79ecca637a694faa185698ee9b34b375938e745b1fa9a8a6da687851d868f0c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
